@@ -18,6 +18,11 @@ If order to run the code you would need to install the following:
    
 3. The following are other packages used in the code:
 - sklearn 
-- 
+- panads 
+- gensim
+- numpy
+- matplotlib
+
+( pip install 'package_name" feom anaconda prompt) 
 
 
